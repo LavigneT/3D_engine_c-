@@ -1,0 +1,4 @@
+﻿  Application.cpp
+c:\projets\cpp\opengl\opengl\opengl\src\application.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\projets\cpp\opengl\opengl\opengl\src\application.cpp(152): warning C4390: ';': empty controlled statement found; is this the intent?
+  OpenGL.vcxproj -> C:\projets\cpp\OpenGL\OpenGL\Debug\OpenGL.exe
